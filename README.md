@@ -1,2 +1,3 @@
 # c-basics
-every c basics I learned
+every c basics I learned.
+Author - Anshuman Nigam
